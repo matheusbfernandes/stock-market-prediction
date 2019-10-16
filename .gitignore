@@ -5,3 +5,4 @@ sql_dollar_query.sql
 sql_inter_query.sql
 sql_inter_tweets_query.sql
 sql_magazine_query.sql
+*.csv
