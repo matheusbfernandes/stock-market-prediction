@@ -2,5 +2,5 @@
 *.sql
 *.csv
 
-!model/magazine_dataset.csv
-!model/inter_dataset.csv
+!model/magazine_model/magazine_dataset.csv
+!model/inter_model/inter_dataset.csv
