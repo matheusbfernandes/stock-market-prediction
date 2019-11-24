@@ -1,2 +1,2 @@
-model_checkpoint_path: "model_weights.ckpt"
-all_model_checkpoint_paths: "model_weights.ckpt"
+model_checkpoint_path: "magazine_model_weights.ckpt"
+all_model_checkpoint_paths: "magazine_model_weights.ckpt"
