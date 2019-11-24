@@ -1,2 +1,0 @@
-model_checkpoint_path: "magazine_model_weights.ckpt"
-all_model_checkpoint_paths: "magazine_model_weights.ckpt"

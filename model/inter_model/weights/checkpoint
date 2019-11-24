@@ -1,2 +1,0 @@
-model_checkpoint_path: "inter_model_weights.ckpt"
-all_model_checkpoint_paths: "inter_model_weights.ckpt"
